@@ -1,0 +1,51 @@
+Book_Spot,Rating,Languages,Edition,Page Count,Format,Times_Downloaded
+0101,4.3,"Russian, Chinese, Spanish, Japanese",3rd edition,366,eBook,309
+0102,4.3,"Chinese, French, Russian, Spanish",5th edition,873,eBook,6149
+0103,4.7,"French, Japanese, Russian",2nd edition,887,eBook,4531
+0104,4.9,"Chinese, Japanese, Korean, French",4th edition,694,eBook,8201
+0105,5,"French, Spanish",2nd edition,1045,eBook,9554
+0201,3.9,"French, Korean, German",2nd edition,836,eBook,6525
+0202,4.1,"Korean, Russian, German, Chinese",3rd edition,154,eBook,2650
+0203,5,"German, Japanese, English, French",5th edition,638,eBook,9811
+0204,4.6,"Japanese, German, Korean",2nd edition,800,eBook,4078
+0205,4.5,"French, English",4th edition,528,eBook,7537
+0301,5,"English, French",2nd edition,774,eBook,3679
+0302,4.5,"French, Japanese, Korean",2nd edition,1155,eBook,4092
+0303,4.7,"Korean, Russian, English, Japanese",3rd edition,853,eBook,9473
+0304,4,"Chinese, German, Korean",5th edition,129,eBook,9057
+0305,4.3,"Russian, Spanish, German",2nd edition,180,eBook,3042
+0401,4.8,"French, Japanese, Russian, Korean",4th edition,186,eBook,9783
+0402,4.5,"German, English, Russian, French",2nd edition,954,eBook,5557
+0403,4.1,"Russian, Chinese, German",2nd edition,271,eBook,7984
+0404,3.7,"French, Russian, Spanish, English",2nd edition,1171,eBook,3871
+0405,4.7,"German, Korean, Chinese, Japanese",2nd edition,243,eBook,3299
+0501,4.3,"English, Korean",2nd edition,742,eBook,8879
+0502,4.9,"Spanish, French, German, Chinese",2nd edition,243,eBook,6247
+0503,4.9,"English, Korean",3rd edition,1131,eBook,6088
+0504,4.2,"German, Korean, Russian",5th edition,1005,eBook,5761
+0505,4.6,"German, French, Spanish, Japanese",2nd edition,1079,eBook,2754
+0601,4.1,"Korean, Russian, Chinese, Japanese",4th edition,105,eBook,6192
+0602,3.7,"Russian, English",2nd edition,800,eBook,4873
+0603,4.2,"English, Spanish, Japanese, Chinese",2nd edition,461,eBook,1326
+0604,4.2,"German, Japanese, French",2nd edition,209,eBook,3429
+0605,4.2,"English, French, Japanese, German",2nd edition,606,eBook,4742
+0701,4.2,"Japanese, English, Chinese",2nd edition,433,eBook,2059
+0702,4.8,"Russian, German, Spanish, Chinese",2nd edition,189,eBook,4457
+0703,4.1,"German, Japanese",2nd edition,183,eBook,4657
+0704,4.1,"Russian, French, Spanish",3rd edition,1122,eBook,8473
+0705,4.1,"English, Korean, Chinese, Japanese",5th edition,167,eBook,1244
+0801,4.1,"German, Spanish",2nd edition,473,eBook,4276
+0802,3.5,"English, German, Spanish",4th edition,509,eBook,762
+0803,4.1,"Russian, French, English, German",2nd edition,878,eBook,5547
+0804,4.7,"Korean, German, Japanese, English",2nd edition,870,eBook,8512
+0805,4.5,"Korean, Japanese",2nd edition,790,eBook,3970
+0901,4.7,"German, Chinese, Japanese",2nd edition,895,eBook,3316
+0902,4.4,"Spanish, Korean",2nd edition,211,eBook,245
+0903,4,"French, Japanese, Chinese, English",2nd edition,1149,eBook,5806
+0904,4.4,"Russian, French, German, Korean",3rd edition,868,eBook,9337
+0905,4,"German, Chinese, Japanese",5th edition,1092,eBook,7136
+1001,4,"Japanese, Spanish, Chinese",2nd edition,710,eBook,8006
+1002,4,"Korean, English",2nd edition,822,eBook,4013
+1003,3.9,"Japanese, French, German, English",2nd edition,598,eBook,8597
+1004,3.9,"Russian, Chinese, Korean, French",2nd edition,510,eBook,5568
+1005,3.9,"Korean, German",2nd edition,845,eBook,9076
